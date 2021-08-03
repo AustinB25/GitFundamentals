@@ -1,6 +1,6 @@
 # Git exercise
 
-Git is a version control system that allwos us to track changes and commit them to history
+Git is a version control system that allows us to track changes and commit them to history.
 
 Here is a growing collection of resources and helpful commands to know when working with git.
 
@@ -8,3 +8,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [Git Config](./Commands/Config.md)
 - [Git Init](./Commands/init.md)
 - [Git Add](./Commands/Add.md)
+- [Git commit](./Commands/Commit.md)
